@@ -45,7 +45,7 @@
                             <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="Zb7-J9-hhs">
                                 <rect key="frame" x="113" y="621" width="266" height="30"/>
                                 <connections>
-                                    <action selector="intensityChange:" destination="BYZ-38-t0r" eventType="valueChanged" id="rY1-1J-hrq"/>
+                                    <action selector="intensityChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="7NB-1E-3zh"/>
                                 </connections>
                             </slider>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ETs-KR-5Te">
